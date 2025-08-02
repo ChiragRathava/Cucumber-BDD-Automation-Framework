@@ -6,7 +6,7 @@ A comprehensive Behavior Driven Development (BDD) automation framework built wit
 
 This framework follows the standard BDD development process where Product Owners, Developers, and Testers collaborate to define requirements as structured scenarios.
 
-![BDD Development Process](C:\Users\Chirag\Desktop\intern\Cucumber.png)
+![image](C:\Users\Chirag\Desktop\intern\Cucumber.png)
 
 *The BDD development process showing collaboration between stakeholders and automated test execution*
 
@@ -53,7 +53,7 @@ The framework includes automated test scenarios for login functionality:
 - **Successful login** with valid credentials
 - **Failed login attempts** with invalid credentials
 
-![Test Execution Results](C:\Users\Chirag\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 113026.png)
+![image](C:\Users\Chirag\OneDrive\Pictures\Screenshots\Screenshot 2025-08-02 113026.png)
 
 *Test execution showing 100% pass rate with detailed scenario results*
 
